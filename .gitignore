@@ -1,6 +1,6 @@
-dir-info.last
-dir-info.new
+test_dir/
+malicious_dir/
 directory-info.last
 directory-info.new
-malicious_dir/
-test_dir/
+dir-info.last
+dir-info.new
